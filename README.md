@@ -1,4 +1,4 @@
 # qaautomation
 i am a QA
 <br>
-Author-Shraddha Khapra
+Author-Shraddha Khapra (Apna College)
